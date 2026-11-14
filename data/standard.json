@@ -1,0 +1,2343 @@
+{
+  "population": [
+    {
+      "id": "p000",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p001",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p002",
+      "stratum": "remote"
+    },
+    {
+      "id": "p003",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p004",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p005",
+      "stratum": "remote"
+    },
+    {
+      "id": "p006",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p007",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p008",
+      "stratum": "remote"
+    },
+    {
+      "id": "p009",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p010",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p011",
+      "stratum": "remote"
+    },
+    {
+      "id": "p012",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p013",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p014",
+      "stratum": "remote"
+    },
+    {
+      "id": "p015",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p016",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p017",
+      "stratum": "remote"
+    },
+    {
+      "id": "p018",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p019",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p020",
+      "stratum": "remote"
+    },
+    {
+      "id": "p021",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p022",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p023",
+      "stratum": "remote"
+    },
+    {
+      "id": "p024",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p025",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p026",
+      "stratum": "remote"
+    },
+    {
+      "id": "p027",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p028",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p029",
+      "stratum": "remote"
+    },
+    {
+      "id": "p030",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p031",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p032",
+      "stratum": "remote"
+    },
+    {
+      "id": "p033",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p034",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p035",
+      "stratum": "remote"
+    },
+    {
+      "id": "p036",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p037",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p038",
+      "stratum": "remote"
+    },
+    {
+      "id": "p039",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p040",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p041",
+      "stratum": "remote"
+    },
+    {
+      "id": "p042",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p043",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p044",
+      "stratum": "remote"
+    },
+    {
+      "id": "p045",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p046",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p047",
+      "stratum": "remote"
+    },
+    {
+      "id": "p048",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p049",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p050",
+      "stratum": "remote"
+    },
+    {
+      "id": "p051",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p052",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p053",
+      "stratum": "remote"
+    },
+    {
+      "id": "p054",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p055",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p056",
+      "stratum": "remote"
+    },
+    {
+      "id": "p057",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p058",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p059",
+      "stratum": "remote"
+    },
+    {
+      "id": "p060",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p061",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p062",
+      "stratum": "remote"
+    },
+    {
+      "id": "p063",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p064",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p065",
+      "stratum": "remote"
+    },
+    {
+      "id": "p066",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p067",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p068",
+      "stratum": "remote"
+    },
+    {
+      "id": "p069",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p070",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p071",
+      "stratum": "remote"
+    },
+    {
+      "id": "p072",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p073",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p074",
+      "stratum": "remote"
+    },
+    {
+      "id": "p075",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p076",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p077",
+      "stratum": "remote"
+    },
+    {
+      "id": "p078",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p079",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p080",
+      "stratum": "remote"
+    },
+    {
+      "id": "p081",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p082",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p083",
+      "stratum": "remote"
+    },
+    {
+      "id": "p084",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p085",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p086",
+      "stratum": "remote"
+    },
+    {
+      "id": "p087",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p088",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p089",
+      "stratum": "remote"
+    },
+    {
+      "id": "p090",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p091",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p092",
+      "stratum": "remote"
+    },
+    {
+      "id": "p093",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p094",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p095",
+      "stratum": "remote"
+    },
+    {
+      "id": "p096",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p097",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p098",
+      "stratum": "remote"
+    },
+    {
+      "id": "p099",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p100",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p101",
+      "stratum": "remote"
+    },
+    {
+      "id": "p102",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p103",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p104",
+      "stratum": "remote"
+    },
+    {
+      "id": "p105",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p106",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p107",
+      "stratum": "remote"
+    },
+    {
+      "id": "p108",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p109",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p110",
+      "stratum": "remote"
+    },
+    {
+      "id": "p111",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p112",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p113",
+      "stratum": "remote"
+    },
+    {
+      "id": "p114",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p115",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p116",
+      "stratum": "remote"
+    },
+    {
+      "id": "p117",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p118",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p119",
+      "stratum": "remote"
+    },
+    {
+      "id": "p120",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p121",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p122",
+      "stratum": "remote"
+    },
+    {
+      "id": "p123",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p124",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p125",
+      "stratum": "remote"
+    },
+    {
+      "id": "p126",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p127",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p128",
+      "stratum": "remote"
+    },
+    {
+      "id": "p129",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p130",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p131",
+      "stratum": "remote"
+    },
+    {
+      "id": "p132",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p133",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p134",
+      "stratum": "remote"
+    },
+    {
+      "id": "p135",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p136",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p137",
+      "stratum": "remote"
+    },
+    {
+      "id": "p138",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p139",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p140",
+      "stratum": "remote"
+    },
+    {
+      "id": "p141",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p142",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p143",
+      "stratum": "remote"
+    },
+    {
+      "id": "p144",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p145",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p146",
+      "stratum": "remote"
+    },
+    {
+      "id": "p147",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p148",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p149",
+      "stratum": "remote"
+    },
+    {
+      "id": "p150",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p151",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p152",
+      "stratum": "remote"
+    },
+    {
+      "id": "p153",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p154",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p155",
+      "stratum": "remote"
+    },
+    {
+      "id": "p156",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p157",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p158",
+      "stratum": "remote"
+    },
+    {
+      "id": "p159",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p160",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p161",
+      "stratum": "remote"
+    },
+    {
+      "id": "p162",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p163",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p164",
+      "stratum": "remote"
+    },
+    {
+      "id": "p165",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p166",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p167",
+      "stratum": "remote"
+    },
+    {
+      "id": "p168",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p169",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p170",
+      "stratum": "remote"
+    },
+    {
+      "id": "p171",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p172",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p173",
+      "stratum": "remote"
+    },
+    {
+      "id": "p174",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p175",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p176",
+      "stratum": "remote"
+    },
+    {
+      "id": "p177",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p178",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p179",
+      "stratum": "remote"
+    },
+    {
+      "id": "p180",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p181",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p182",
+      "stratum": "remote"
+    },
+    {
+      "id": "p183",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p184",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p185",
+      "stratum": "remote"
+    },
+    {
+      "id": "p186",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p187",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p188",
+      "stratum": "remote"
+    },
+    {
+      "id": "p189",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p190",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p191",
+      "stratum": "remote"
+    },
+    {
+      "id": "p192",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p193",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p194",
+      "stratum": "remote"
+    },
+    {
+      "id": "p195",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p196",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p197",
+      "stratum": "remote"
+    },
+    {
+      "id": "p198",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p199",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p200",
+      "stratum": "remote"
+    },
+    {
+      "id": "p201",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p202",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p203",
+      "stratum": "remote"
+    },
+    {
+      "id": "p204",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p205",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p206",
+      "stratum": "remote"
+    },
+    {
+      "id": "p207",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p208",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p209",
+      "stratum": "remote"
+    },
+    {
+      "id": "p210",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p211",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p212",
+      "stratum": "remote"
+    },
+    {
+      "id": "p213",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p214",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p215",
+      "stratum": "remote"
+    },
+    {
+      "id": "p216",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p217",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p218",
+      "stratum": "remote"
+    },
+    {
+      "id": "p219",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p220",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p221",
+      "stratum": "remote"
+    },
+    {
+      "id": "p222",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p223",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p224",
+      "stratum": "remote"
+    },
+    {
+      "id": "p225",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p226",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p227",
+      "stratum": "remote"
+    },
+    {
+      "id": "p228",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p229",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p230",
+      "stratum": "remote"
+    },
+    {
+      "id": "p231",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p232",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p233",
+      "stratum": "remote"
+    },
+    {
+      "id": "p234",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p235",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p236",
+      "stratum": "remote"
+    },
+    {
+      "id": "p237",
+      "stratum": "near-small"
+    },
+    {
+      "id": "p238",
+      "stratum": "near-large"
+    },
+    {
+      "id": "p239",
+      "stratum": "remote"
+    }
+  ],
+  "lists": [
+    {
+      "record": "service-p000",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p001",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p001",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "callback-p008",
+      "source": "callback",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p011",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p011",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p012",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p012",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p016",
+      "source": "callback",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p022",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p022",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p023",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p023",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "callback-p028",
+      "source": "callback",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p033",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p033",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p034",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p034",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "callback-p036",
+      "source": "callback",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p044",
+      "source": "callback",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p044",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p044",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p045",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p055",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "callback-p056",
+      "source": "callback",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p056",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p056",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "callback-p064",
+      "source": "callback",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p066",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p066",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p067",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p067",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "callback-p072",
+      "source": "callback",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p077",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p077",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p078",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p078",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p084",
+      "source": "callback",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p088",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p088",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p089",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p089",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "callback-p092",
+      "source": "callback",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p099",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p099",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p100",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p110",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p111",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p111",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p112",
+      "source": "callback",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p121",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p121",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p122",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p122",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "callback-p128",
+      "source": "callback",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p132",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p132",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p133",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p133",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p143",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p143",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p144",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p144",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p148",
+      "source": "callback",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p154",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p154",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p155",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "callback-p156",
+      "source": "callback",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p165",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p166",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p166",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "callback-p168",
+      "source": "callback",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p176",
+      "source": "callback",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p176",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p176",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p177",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p177",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p184",
+      "source": "callback",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p187",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p187",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p188",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p188",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "callback-p196",
+      "source": "callback",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p198",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p198",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p199",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p199",
+      "source": "carrier",
+      "stratum": "near-large"
+    },
+    {
+      "record": "callback-p204",
+      "source": "callback",
+      "stratum": "near-small"
+    },
+    {
+      "record": "service-p209",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p209",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p210",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p212",
+      "source": "callback",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p220",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p221",
+      "source": "service",
+      "stratum": "remote"
+    },
+    {
+      "record": "carrier-p221",
+      "source": "carrier",
+      "stratum": "remote"
+    },
+    {
+      "record": "callback-p224",
+      "source": "callback",
+      "stratum": "remote"
+    },
+    {
+      "record": "service-p231",
+      "source": "service",
+      "stratum": "near-small"
+    },
+    {
+      "record": "carrier-p231",
+      "source": "carrier",
+      "stratum": "near-small"
+    },
+    {
+      "record": "callback-p232",
+      "source": "callback",
+      "stratum": "near-large"
+    },
+    {
+      "record": "service-p232",
+      "source": "service",
+      "stratum": "near-large"
+    },
+    {
+      "record": "carrier-p232",
+      "source": "carrier",
+      "stratum": "near-large"
+    }
+  ],
+  "confirmed_links": [
+    {
+      "record": "service-p001",
+      "order": "p001"
+    },
+    {
+      "record": "carrier-p001",
+      "order": "p001"
+    },
+    {
+      "record": "callback-p008",
+      "order": "p008"
+    },
+    {
+      "record": "service-p011",
+      "order": "p011"
+    },
+    {
+      "record": "carrier-p011",
+      "order": "p011"
+    },
+    {
+      "record": "service-p012",
+      "order": "p012"
+    },
+    {
+      "record": "carrier-p012",
+      "order": "p012"
+    },
+    {
+      "record": "callback-p016",
+      "order": "p016"
+    },
+    {
+      "record": "service-p022",
+      "order": "p022"
+    },
+    {
+      "record": "carrier-p022",
+      "order": "p022"
+    },
+    {
+      "record": "service-p023",
+      "order": "p023"
+    },
+    {
+      "record": "carrier-p023",
+      "order": "p023"
+    },
+    {
+      "record": "callback-p028",
+      "order": "p028"
+    },
+    {
+      "record": "service-p033",
+      "order": "p033"
+    },
+    {
+      "record": "carrier-p033",
+      "order": "p033"
+    },
+    {
+      "record": "callback-p036",
+      "order": "p036"
+    },
+    {
+      "record": "callback-p044",
+      "order": "p044"
+    },
+    {
+      "record": "service-p044",
+      "order": "p044"
+    },
+    {
+      "record": "carrier-p044",
+      "order": "p044"
+    },
+    {
+      "record": "service-p045",
+      "order": "p045"
+    },
+    {
+      "record": "service-p055",
+      "order": "p055"
+    },
+    {
+      "record": "callback-p056",
+      "order": "p056"
+    },
+    {
+      "record": "service-p056",
+      "order": "p056"
+    },
+    {
+      "record": "carrier-p056",
+      "order": "p056"
+    },
+    {
+      "record": "callback-p064",
+      "order": "p064"
+    },
+    {
+      "record": "service-p066",
+      "order": "p066"
+    },
+    {
+      "record": "carrier-p066",
+      "order": "p066"
+    },
+    {
+      "record": "service-p067",
+      "order": "p067"
+    },
+    {
+      "record": "carrier-p067",
+      "order": "p067"
+    },
+    {
+      "record": "callback-p072",
+      "order": "p072"
+    },
+    {
+      "record": "service-p077",
+      "order": "p077"
+    },
+    {
+      "record": "carrier-p077",
+      "order": "p077"
+    },
+    {
+      "record": "service-p078",
+      "order": "p078"
+    },
+    {
+      "record": "carrier-p078",
+      "order": "p078"
+    },
+    {
+      "record": "callback-p084",
+      "order": "p084"
+    },
+    {
+      "record": "service-p088",
+      "order": "p088"
+    },
+    {
+      "record": "carrier-p088",
+      "order": "p088"
+    },
+    {
+      "record": "service-p089",
+      "order": "p089"
+    },
+    {
+      "record": "carrier-p089",
+      "order": "p089"
+    },
+    {
+      "record": "callback-p092",
+      "order": "p092"
+    },
+    {
+      "record": "service-p099",
+      "order": "p099"
+    },
+    {
+      "record": "carrier-p099",
+      "order": "p099"
+    },
+    {
+      "record": "service-p100",
+      "order": "p100"
+    },
+    {
+      "record": "service-p110",
+      "order": "p110"
+    },
+    {
+      "record": "service-p111",
+      "order": "p111"
+    },
+    {
+      "record": "carrier-p111",
+      "order": "p111"
+    },
+    {
+      "record": "callback-p112",
+      "order": "p112"
+    },
+    {
+      "record": "service-p121",
+      "order": "p121"
+    },
+    {
+      "record": "carrier-p121",
+      "order": "p121"
+    },
+    {
+      "record": "service-p122",
+      "order": "p122"
+    },
+    {
+      "record": "carrier-p122",
+      "order": "p122"
+    },
+    {
+      "record": "callback-p128",
+      "order": "p128"
+    },
+    {
+      "record": "service-p132",
+      "order": "p132"
+    },
+    {
+      "record": "carrier-p132",
+      "order": "p132"
+    },
+    {
+      "record": "service-p133",
+      "order": "p133"
+    },
+    {
+      "record": "carrier-p133",
+      "order": "p133"
+    },
+    {
+      "record": "service-p143",
+      "order": "p143"
+    },
+    {
+      "record": "carrier-p143",
+      "order": "p143"
+    },
+    {
+      "record": "service-p144",
+      "order": "p144"
+    },
+    {
+      "record": "carrier-p144",
+      "order": "p144"
+    },
+    {
+      "record": "callback-p148",
+      "order": "p148"
+    },
+    {
+      "record": "service-p154",
+      "order": "p154"
+    },
+    {
+      "record": "carrier-p154",
+      "order": "p154"
+    },
+    {
+      "record": "service-p155",
+      "order": "p155"
+    },
+    {
+      "record": "callback-p156",
+      "order": "p156"
+    },
+    {
+      "record": "service-p165",
+      "order": "p165"
+    },
+    {
+      "record": "service-p166",
+      "order": "p166"
+    },
+    {
+      "record": "carrier-p166",
+      "order": "p166"
+    },
+    {
+      "record": "callback-p168",
+      "order": "p168"
+    },
+    {
+      "record": "callback-p176",
+      "order": "p176"
+    },
+    {
+      "record": "service-p176",
+      "order": "p176"
+    },
+    {
+      "record": "carrier-p176",
+      "order": "p176"
+    },
+    {
+      "record": "service-p177",
+      "order": "p177"
+    },
+    {
+      "record": "carrier-p177",
+      "order": "p177"
+    },
+    {
+      "record": "callback-p184",
+      "order": "p184"
+    },
+    {
+      "record": "service-p188",
+      "order": "p188"
+    },
+    {
+      "record": "carrier-p188",
+      "order": "p188"
+    },
+    {
+      "record": "callback-p196",
+      "order": "p196"
+    },
+    {
+      "record": "service-p198",
+      "order": "p198"
+    },
+    {
+      "record": "carrier-p198",
+      "order": "p198"
+    },
+    {
+      "record": "service-p199",
+      "order": "p199"
+    },
+    {
+      "record": "carrier-p199",
+      "order": "p199"
+    },
+    {
+      "record": "callback-p204",
+      "order": "p204"
+    },
+    {
+      "record": "service-p209",
+      "order": "p209"
+    },
+    {
+      "record": "carrier-p209",
+      "order": "p209"
+    },
+    {
+      "record": "service-p210",
+      "order": "p210"
+    },
+    {
+      "record": "callback-p212",
+      "order": "p212"
+    },
+    {
+      "record": "service-p220",
+      "order": "p220"
+    },
+    {
+      "record": "callback-p224",
+      "order": "p224"
+    },
+    {
+      "record": "service-p231",
+      "order": "p231"
+    },
+    {
+      "record": "carrier-p231",
+      "order": "p231"
+    },
+    {
+      "record": "callback-p232",
+      "order": "p232"
+    },
+    {
+      "record": "service-p232",
+      "order": "p232"
+    },
+    {
+      "record": "carrier-p232",
+      "order": "p232"
+    }
+  ],
+  "candidate_links": [
+    {
+      "record": "service-p000",
+      "order": "p000",
+      "score": 0.86
+    },
+    {
+      "record": "service-p000",
+      "order": "p017",
+      "score": 0.82
+    },
+    {
+      "record": "service-p034",
+      "order": "p000",
+      "score": 0.86
+    },
+    {
+      "record": "service-p034",
+      "order": "p017",
+      "score": 0.82
+    },
+    {
+      "record": "carrier-p034",
+      "order": "p000",
+      "score": 0.86
+    },
+    {
+      "record": "carrier-p034",
+      "order": "p017",
+      "score": 0.82
+    },
+    {
+      "record": "service-p187",
+      "order": "p000",
+      "score": 0.86
+    },
+    {
+      "record": "service-p187",
+      "order": "p017",
+      "score": 0.82
+    },
+    {
+      "record": "carrier-p187",
+      "order": "p000",
+      "score": 0.86
+    },
+    {
+      "record": "carrier-p187",
+      "order": "p017",
+      "score": 0.82
+    },
+    {
+      "record": "service-p221",
+      "order": "p000",
+      "score": 0.86
+    },
+    {
+      "record": "service-p221",
+      "order": "p017",
+      "score": 0.82
+    },
+    {
+      "record": "carrier-p221",
+      "order": "p000",
+      "score": 0.86
+    },
+    {
+      "record": "carrier-p221",
+      "order": "p017",
+      "score": 0.82
+    }
+  ],
+  "outreach": [
+    {
+      "order": "p000",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p004",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p008",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p012",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p016",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p020",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p024",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p028",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p032",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p036",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p040",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p044",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p048",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p052",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p056",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p060",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p064",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p068",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p072",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p076",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p080",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p084",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p088",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p092",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p096",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p100",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p104",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p108",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p112",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p116",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p120",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p124",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p128",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p132",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p136",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p140",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p144",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p148",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p152",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p156",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p160",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p164",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p168",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p172",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p176",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p180",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p184",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p188",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p192",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p196",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p200",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p204",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p208",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p212",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p216",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p220",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": false,
+      "damage_reported": null
+    },
+    {
+      "order": "p224",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p228",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    },
+    {
+      "order": "p232",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": true
+    },
+    {
+      "order": "p236",
+      "sampled": true,
+      "inclusion_probability": 0.25,
+      "connected": true,
+      "damage_reported": false
+    }
+  ]
+}
