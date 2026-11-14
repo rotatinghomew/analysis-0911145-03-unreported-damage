@@ -1,0 +1,380 @@
+{
+  "kind": "pools",
+  "specimens": [
+    {
+      "id": "fruit00",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit01",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit02",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit03",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit04",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit05",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit06",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit07",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit08",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit09",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit10",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit11",
+      "lot": "north",
+      "inclusion_probability": 0.5
+    },
+    {
+      "id": "fruit12",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit13",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit14",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit15",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit16",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit17",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit18",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit19",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit20",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit21",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit22",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    },
+    {
+      "id": "fruit23",
+      "lot": "south",
+      "inclusion_probability": 0.75
+    }
+  ],
+  "pools": [
+    {
+      "id": "pool0",
+      "members": [
+        "fruit00",
+        "fruit01",
+        "fruit02"
+      ],
+      "positive": true,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool1",
+      "members": [
+        "fruit02",
+        "fruit03",
+        "fruit04",
+        "fruit05"
+      ],
+      "positive": false,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool2",
+      "members": [
+        "fruit04",
+        "fruit05",
+        "fruit06"
+      ],
+      "positive": false,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool3",
+      "members": [
+        "fruit06",
+        "fruit07",
+        "fruit08",
+        "fruit09"
+      ],
+      "positive": true,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool4",
+      "members": [
+        "fruit08",
+        "fruit09",
+        "fruit10"
+      ],
+      "positive": false,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool5",
+      "members": [
+        "fruit10",
+        "fruit11",
+        "fruit12",
+        "fruit13"
+      ],
+      "positive": false,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool6",
+      "members": [
+        "fruit12",
+        "fruit13",
+        "fruit14"
+      ],
+      "positive": true,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool7",
+      "members": [
+        "fruit14",
+        "fruit15",
+        "fruit16",
+        "fruit17"
+      ],
+      "positive": false,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool8",
+      "members": [
+        "fruit16",
+        "fruit17",
+        "fruit18"
+      ],
+      "positive": false,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "pool9",
+      "members": [
+        "fruit18",
+        "fruit19",
+        "fruit20",
+        "fruit21"
+      ],
+      "positive": true,
+      "assay": "scanner-A",
+      "stage": 1,
+      "selected_after": []
+    },
+    {
+      "id": "followup",
+      "members": [
+        "fruit00",
+        "fruit01"
+      ],
+      "positive": false,
+      "assay": "scanner-A",
+      "stage": 2,
+      "selected_after": [
+        "pool0"
+      ]
+    }
+  ],
+  "calibration": [
+    {
+      "assay": "scanner-A",
+      "pool_size": 2,
+      "bad_count": 0,
+      "positive_probability": [
+        0.01,
+        0.03
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 2,
+      "bad_count": 1,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 2,
+      "bad_count": 2,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 3,
+      "bad_count": 0,
+      "positive_probability": [
+        0.01,
+        0.03
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 3,
+      "bad_count": 1,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 3,
+      "bad_count": 2,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 3,
+      "bad_count": 3,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 4,
+      "bad_count": 0,
+      "positive_probability": [
+        0.01,
+        0.03
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 4,
+      "bad_count": 1,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 4,
+      "bad_count": 2,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 4,
+      "bad_count": 3,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    },
+    {
+      "assay": "scanner-A",
+      "pool_size": 4,
+      "bad_count": 4,
+      "positive_probability": [
+        0.92,
+        0.98
+      ]
+    }
+  ],
+  "lot_population": {
+    "north": 24,
+    "south": 16
+  },
+  "audit_budget": 5
+}

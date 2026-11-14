@@ -1,13 +1,13 @@
+import json
 import os
 import threading
 import unittest
-
 from app.client import analysis
 from app.server import make_server
-from app.store import load_case
+from app.study_store import load_case
 
 
-@unittest.skipUnless(os.environ.get('RUN_ACCEPTANCE') == '1', 'new analysis feature not enabled')
+@unittest.skipUnless(os.environ.get('RUN_ACCEPTANCE') == '1', '分析消费接口尚未接入')
 class AnalysisContractTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
@@ -22,25 +22,35 @@ class AnalysisContractTests(unittest.TestCase):
         cls.worker.join(timeout=3)
         cls.server.server_close()
 
-    def test_result_has_consumer_fields_and_provenance(self):
+    def test_consumer_contract_and_provenance(self):
         result = analysis(self.base)
         self.assertEqual(result['snapshot'], load_case('standard')['_snapshot'])
-        for field in ['observed', 'estimates', 'assumptions', 'diagnostics']:
+        for field in ['lots', 'identification', 'followup', 'diagnostics']:
             self.assertIn(field, result)
-        self.assertTrue(result['diagnostics'])
+        json.dumps(result, allow_nan=False)
 
-    def test_edge_case_is_not_silently_treated_as_standard(self):
-        standard = analysis(self.base)
-        edge = analysis(self.base, 'edge')
-        self.assertNotEqual(standard['snapshot'], edge['snapshot'])
-        self.assertTrue(edge['diagnostics'])
-
-    def test_repeated_record_is_not_an_extra_damaged_order(self):
-        original = analysis(self.base)
-        repeated = analysis(self.base, 'repeated')
-        self.assertEqual(original['observed']['confirmed_events'], repeated['observed']['confirmed_events'])
-
-    def test_observed_count_is_not_the_total_rate(self):
+    def test_information_limits_are_visible(self):
         result = analysis(self.base, 'edge')
-        self.assertTrue(result['assumptions'])
+        self.assertEqual(result['snapshot'], load_case('edge')['_snapshot'])
         self.assertTrue(result['diagnostics'])
+
+    def test_sample_and_population_bounds_use_their_own_units(self):
+        case = load_case('standard')
+        result = analysis(self.base)
+        for row in result['lots']:
+            count = sum(fruit['lot'] == row['lot'] for fruit in case['specimens'])
+            if row['sample_defects'] is not None:
+                self.assertLessEqual(0, row['sample_defects'][0])
+                self.assertLessEqual(row['sample_defects'][0], row['sample_defects'][1])
+                self.assertLessEqual(row['sample_defects'][1], count)
+            if row['prevalence'] is not None:
+                self.assertLessEqual(0, row['prevalence'][0])
+                self.assertLessEqual(row['prevalence'][0], row['prevalence'][1])
+                self.assertLessEqual(row['prevalence'][1], 1)
+
+    def test_followup_does_not_reuse_the_same_fruit_or_exceed_budget(self):
+        result = analysis(self.base, audit_budget=2)
+        selected = result['followup']['selected_specimens']
+        self.assertEqual(len(selected), len(set(selected)))
+        self.assertLessEqual(len(selected), 2)
+        self.assertTrue(set(selected) <= {fruit['id'] for fruit in load_case('standard')['specimens']})
