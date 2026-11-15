@@ -17,6 +17,12 @@ def main():
         for case in request(base, '/study-cases')['cases']:
             response = request(base, '/study-preview', {'case': case})
             print(json.dumps({'study': case, 'preview': response}, ensure_ascii=False))
+        for case in request(base, '/study-cases')['cases']:
+            response = request(base, '/pooled-quality', {'case': case})
+            print(json.dumps({'study': case, 'analysis': response}, ensure_ascii=False))
+        response = request(base, '/pooled-quality', {'case': 'standard', 'audit_budget': 2})
+        print(json.dumps({'study': 'standard', 'audit_budget': 2, 'analysis': response},
+                         ensure_ascii=False))
         server.shutdown()
         worker.join(timeout=3)
 

@@ -1,6 +1,6 @@
 # 重叠混样与稀释误差下的果品批次缺陷比例推断
 
-本地分析工作台保留已有业务资料与预览能力，增加了独立分析资料的校验和 HTTP 预览。`data/study` 保存本地合成资料，`app/study.py` 解释资料结构；新的分析消费调用尚未接入，不能把当前描述统计当成推断结果。
+本地分析工作台保留已有业务资料与预览能力，并接入了混样筛查的联合推断。`data/study` 保存本地合成资料，`app/study.py` 解释资料结构，`app/pooled.py` 实现推断：同一果实的缺陷状态联合进入其所有混管的似然（不按管独立伯努利、重复入管不计新增样本量），校准区间按系统性误差在三个角点（下界/中点/上界）上精确计算并报告包络，缺校准的混管读数被剔除并列入诊断，追加拆样作为联合似然因子而非新随机样本。描述性预览（`POST /study-preview`）只描述观测，推断结果以 `POST /pooled-quality` 为准。
 
 数据均为本地合成，不含真实姓名、电话号码或生产系统凭据。`standard` 是常规资料，`edge` 用于检查信息不足或约束冲突。它们只描述观测，不预设分析结论。
 
@@ -27,4 +27,4 @@ docker run --rm --network none local/unreported-damage:baseline python -m unitte
 docker run --rm --network none local/unreported-damage:baseline
 ```
 
-准备阶段允许构建镜像和预装依赖；正式演示不进行构建或安装。默认演示只显示已有功能。新能力完成后，请使演示通过实际 HTTP 消费调用展示输入口径、分析结果和限制，保留完整输出；小样本预期在 90 秒内结束。功能测试启用方式：`RUN_ACCEPTANCE=1 python -m unittest tests.test_acceptance -v`，初始版本未提供新接口，故默认跳过这些测试。
+准备阶段允许构建镜像和预装依赖；正式演示不进行构建或安装。演示通过实际 HTTP 消费调用展示输入口径、分析结果和限制，保留完整输出；小样本在数秒内结束。功能测试启用方式：`RUN_ACCEPTANCE=1 python -m unittest tests.test_acceptance -v`；分析正确性回归（小规模可手算核对、敏感性、信息截止）见 `tests/test_analysis.py`，默认随测试套件运行。
